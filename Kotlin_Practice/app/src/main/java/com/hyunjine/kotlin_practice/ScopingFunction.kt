@@ -1,5 +1,9 @@
 package com.hyunjine.kotlin_practice
 
-class ScopingFunction {
+import android.util.Log
 
+class ScopingFunction {
+    private fun Test() {
+        Log.d("tag", "Test: gdgd")
+    }
 }
