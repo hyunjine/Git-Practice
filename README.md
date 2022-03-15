@@ -8,8 +8,9 @@ How? Git을 하도 못해서 보이는 명령어는 다 해볼예정
 1. git init
 2. git status
 3. git branch
-4. git branch a_branch 
-5. git checkout a_branch
-6. commit
-7. push
-8. pull request
+4. git branch -b a_branch
+5. git branch a_branch 
+6. git checkout a_branch
+7. commit
+8. push
+9. pull request
