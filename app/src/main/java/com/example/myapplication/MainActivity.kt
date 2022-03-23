@@ -1,7 +1,10 @@
 package com.example.myapplication
 
+import android.os.AsyncTask
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Environment
+import java.io.File
 
 class MainActivity : AppCompatActivity() {
 
@@ -10,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         supportActionBar?.hide()
+        SimpleDataFormatExample().generateCurrentDay()
     }
 }
