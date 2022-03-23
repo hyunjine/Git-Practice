@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id AFragment
+id BFragment
+id action_AFragment_to_BFragment
+id btn_a
+id btn_b
+id btn_c
+id btn_d
+id btn_go
+id nav_gragh
+id nav_host_fragment
+id txt
+layout activity_main
+layout fragment_a
+layout fragment_b
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+style Theme.MyApplication

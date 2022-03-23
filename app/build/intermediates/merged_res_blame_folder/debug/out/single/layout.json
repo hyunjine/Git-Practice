@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android Projects\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_a.xml",
+        "source": "C:\\Android Projects\\MyApplication\\app\\src\\main\\res\\layout\\fragment_a.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_b.xml",
+        "source": "C:\\Android Projects\\MyApplication\\app\\src\\main\\res\\layout\\fragment_b.xml"
+    }
+]
