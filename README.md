@@ -14,3 +14,7 @@ How? Git을 하도 못해서 보이는 명령어는 다 해볼예정
 7. commit
 8. push
 9. pull request
+
+> 2022-03-29
+10. git clone repository.git
+11. git reset --hard HEAD - 마지막 commit한 코드 
