@@ -18,4 +18,10 @@ How? Git을 하도 못해서 보이는 명령어는 다 해볼예정
 > 2022-03-29
 10. git clone repository.git
 11. git reset --hard HEAD
-* 마지막 commit 내용 
+* 마지막 commit 내용 백업
+
+> 2022-03-31
+12. git config --list
+13. git config user.name
+14. git config user.email
+* 자꾸 회사계정으로 commit돼서 알아냄
