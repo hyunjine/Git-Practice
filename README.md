@@ -25,3 +25,8 @@ How? Git을 하도 못해서 보이는 명령어는 다 해볼예정
 13. git config user.name
 14. git config user.email
 * 자꾸 회사계정으로 commit돼서 알아냄
+
+> 2022-04-01
+15. git rm -r --cached .
+16. git add .
+* git ignore 적용이 안 돼서 캐시 삭제 후 재생성
