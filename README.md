@@ -1,5 +1,5 @@
 # Git-Practice
-Why? Github와 Git 핵초짜를 벗어나기위한 몸부림
+Why? Github와 Git 핵초짜를 벗어나기위한 몸부림, 회사에서 코딩보다 git못 해서 뚜까 맞음.
 
 How? Git을 하도 못해서 보이는 명령어는 다 해볼예정
 
