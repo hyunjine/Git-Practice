@@ -30,3 +30,8 @@ How? Git을 하도 못해서 보이는 명령어는 다 해볼예정
 15. git rm -r --cached .
 16. git add .
 * git ignore 적용이 안 돼서 캐시 삭제 후 재생성
+
+> 2022-04-05
+17. git add
+18. git status
+* commit이 첫 단계인 줄 알았다. 왜냐하면 나는 terminal을 안 쓰고 android studio가 제공하는 기능을 썼기 때문. commit전에 staging시키는 add라는 명령어를 알게 됨. 자연스럽게 현재 상태를 나타내는 git status도 알게 됨.
